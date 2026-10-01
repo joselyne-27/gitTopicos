@@ -1,0 +1,5 @@
+git init 
+git remote add origin https://github.com/joselyne-27/gitTopicos.git
+git add .
+git commit -m "Ejemoplos"
+git push origin master
